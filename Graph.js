@@ -114,8 +114,8 @@ console.log(graph.hasEdge("a", "b"));
 
 // graph.removeVertex('a')
 // graph.display()
-// graph.DFS("a");
-graph.BFS("a");
+graph.DFS("a");
+// graph.BFS("a");
 
 
 
